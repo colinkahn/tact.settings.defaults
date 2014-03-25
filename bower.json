@@ -1,0 +1,6 @@
+{
+  "name": "tact-defaults",
+  "version": "0.1.0",
+  "homepage": "https://github.com/colinkahn/tact.settings.defaults",
+  "main": "_settings.defaults.scss"
+}
